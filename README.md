@@ -1,2 +1,4 @@
-# Test
-I'm learning how Github works.
+# README
+This is my first experience with GitHub.
+
+I'm testing the various features.
